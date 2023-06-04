@@ -1,0 +1,7 @@
+Id_lekarza	Nazwisko	Imie	Specjalnosc	Data_urodzenia	NIP	PESEL
+23  Nowak   Zenon  kardiolog  1962-03-12  879-122-69-91	61031687651
+100	Smith	John	chirurgia	1980-05-15	123456789	12345678901234
+101	Doe	Jane	kardiologia	1975-09-21	987654321	98765432109876
+102	Johnson	Michael	ortopedia	1988-11-30	456789123	45678912304567
+103	Williams	Emily	okulistyka	1992-03-08	789123456	78912345607890
+104	Brown	David	pediatria	1985-07-12	321654987	32165498705678
